@@ -961,7 +961,8 @@ footer {
     margin: 0px 12px;
 
   }
-  .last_radiobutton {
+
+  .seasons .last_radiobutton {
     padding-right: 0px;
   }
 }
@@ -997,8 +998,10 @@ footer {
   .hidden_photo {
     display: none;
   }
-  .last_radiobutton {
+
+  .seasons .last_radiobutton {
     padding-right: 0px;
+    margin-right:0px;
   }
   .recommendations {
     align-items: center;
@@ -1121,8 +1124,9 @@ footer {
     padding: 0px 68px 24px 0px;
     margin-right: 20px;
   }
-  .last_radiobutton {
+  .seasons .last_radiobutton {
     padding-right: 0px;
+ margin-right:0px; 
   }
   .coffeeshop_description {
     padding-left: 10px;
@@ -1262,13 +1266,11 @@ footer {
     padding: 0px 68px 24px 0px;
     margin-right: 20px;
   }
-  .last_radiobutton {
+  .seasons .last_radiobutton {
     padding-right: 0px;
+    margin-right:0px;
   }
-  .last_radiobutton {
-    padding-right: 68px;
-  }
-
+ 
   .recommendations {
     width: 100%;
   }
