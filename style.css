@@ -29,6 +29,9 @@
   text-decoration: none;
   list-style: none;
 }
+html,body{
+    overflow-x: hidden;
+}
 html {
   scroll-behavior: smooth;
 }
