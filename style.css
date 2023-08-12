@@ -29,9 +29,6 @@
   text-decoration: none;
   list-style: none;
 }
-html,body{
-    overflow-x: hidden;
-}
 html {
   scroll-behavior: smooth;
 }
@@ -962,6 +959,10 @@ footer {
   .profile_icon {
     z-index: 10;
     margin: 0px 12px;
+
+  }
+  .last_radiobutton {
+    padding-right: 0px;
   }
 }
 @media (min-width: 1229px) {
@@ -995,6 +996,9 @@ footer {
   }
   .hidden_photo {
     display: none;
+  }
+  .last_radiobutton {
+    padding-right: 0px;
   }
   .recommendations {
     align-items: center;
